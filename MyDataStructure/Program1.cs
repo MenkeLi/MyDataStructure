@@ -21,6 +21,7 @@ namespace MyDataStructure
 {
     class Program1
     {
+        //我只是来做实验的
         static void Main(string[] args)
         {
             #region 第一章测试
